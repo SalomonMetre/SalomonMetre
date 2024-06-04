@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **NLP projects oriented towards low-resource languages.**
 
-- 🤝 I’m looking for help with **Systems Programming resources**
+- 🤝 I’m looking for help with **System Programming resources**
 
 - 💬 Ask me about **Dart, Flutter, Digital Logic, Linux, Deep Learning fundamentals.**
 
