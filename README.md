@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **System Programming resources**
 
-- 💬 Ask me about **Dart, Flutter, Digital Logic, Linux, Deep Learning fundamentals.**
+- 💬 Ask me about **Dart, Flutter, Digital Logic, Linux, Deep Learning fundamentals & NLP**
 
 - 📫 How to reach me **salomon.kulondwa@gmail.com**
 
