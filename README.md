@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salomonmetre&label=Profile%20views&color=0e75b6&style=flat" alt="salomonmetre" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salomonmetre" alt="salomonmetre" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salomonmetre" alt="salomonmetre" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/metresalomon" target="blank"><img src="https://img.shields.io/twitter/follow/metresalomon?logo=twitter&style=for-the-badge" alt="metresalomon" /></a> </p>
 
