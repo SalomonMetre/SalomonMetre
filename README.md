@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salomon Metre</h1>
-<h3 align="center">I am a final-year Computer Science student and an NLP enthusiast with great interest in Systems Design, Relational Databases, Backend Web Development, Cross-Platform App development, Machine Learning and Linux System Administration. I love tinkering with computers to solve simple computing problems and am interested in using Data Structures, Algorithms and Mathematical concepts to solve complex computing problems.</h3>
+<p align="center">I am a final-year Computer Science student and an NLP enthusiast with great interest in Systems Design, Relational Databases, Backend Web Development, Cross-Platform App development, Machine Learning and Linux System Administration. I love tinkering with computers to solve simple computing problems and am interested in using Data Structures, Algorithms and Mathematical concepts to solve complex computing problems.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salomonmetre&label=Profile%20views&color=0e75b6&style=flat" alt="salomonmetre" /> </p>
 
