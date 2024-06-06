@@ -7,7 +7,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/metresalomon" target="blank"><img src="https://img.shields.io/twitter/follow/metresalomon?logo=twitter&style=for-the-badge" alt="metresalomon" /></a> </p> -->
 
-- 🌱 I’m currently learning **Vue.js and node.js**
+- 🌱 I’m currently learning **Vue.js**
 
 - 👯 I’m looking to collaborate on **NLP projects oriented towards low-resource languages.**
 
