@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **salomon.kulondwa@gmail.com**
 
-- ⚡ Fun fact **I believe we should strive for wisdom in computer-related concepts and issues. I am insanely curious.**
+- ⚡ Fun fact **I am strangely curious.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
