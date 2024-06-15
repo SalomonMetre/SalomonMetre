@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Vue.js**
 
-- 👯 I’m looking to collaborate on **NLP projects oriented towards low-resource languages.**
+- 👯 I’m looking to collaborate on **NLP projects oriented towards low-resourced languages.**
 
 - 🤝 I’m looking for help with **System Programming resources**
 
