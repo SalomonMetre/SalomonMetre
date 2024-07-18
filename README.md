@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **salomon.kulondwa@gmail.com**
 
-- ⚡ Fun fact **I am strangely curious.**
+- ⚡ Fun fact **I am strangely curious. I am interested in digital logic and NLP and everything in-between.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
