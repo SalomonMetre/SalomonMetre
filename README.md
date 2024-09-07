@@ -61,11 +61,11 @@
 
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40"/></a>
 
-<a href="http://www.cburch.com/logisim/index.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logisim-icon.svg" alt="logisim" width="40" height="40"/></a>
+<!-- <a href="http://www.cburch.com/logisim/index.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logisim-icon.svg" alt="logisim" width="40" height="40"/></a> -->
   
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 
-<a href="https://www.thunderclient.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/thunderclient/thunderclient-original.svg" alt="thunderclient" width="40" height="40"/></a>
+<!-- <a href="https://www.thunderclient.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/thunderclient/thunderclient-original.svg" alt="thunderclient" width="40" height="40"/></a> -->
 
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
 
