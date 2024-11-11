@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salomon Metre</h1>
-<p align="center">I am a final-year Computer Science student and an NLP enthusiast with great interest in Systems Design, Relational Databases, Backend Web Development, Cross-Platform App Development, Machine Learning, and Linux System Administration. I love tinkering with computers to solve simple computing problems and am interested in using Data Structures, Algorithms, and Mathematical concepts to solve complex computing problems.</p>
+<p align="center">Passionate Computer Science student with a solid foundation in computing and a strong interest in natural language processing. I am particularly fascinated by deep learning and its applications. I aspire to contribute to the creation of innovative software that tackles real-world issues, particularly linguistic challenges in the Democratic Republic of the Congo.</p>
 
 - 🌱 I’m currently learning **More NLP...**
 
