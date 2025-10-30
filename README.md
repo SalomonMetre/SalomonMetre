@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Salomon Metre</h1>
 <p align="center">A hacker at heart, I am a curious Computer Science graduate with a solid foundation in computing and a strong interest in natural language processing. </p>
 
-- 🌱 I’m currently learning **More NLP...**
+<!-- - 🌱 I’m currently learning **More NLP...**
 
 - 👯 I’m looking to collaborate on **NLP projects oriented towards low-resource languages.**
 
@@ -49,7 +49,6 @@
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
 <a href="https://www.swi-prolog.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prolog/prolog-original.svg" alt="prolog" width="40" height="40"/></a>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/></a>
-<!-- new tools -->
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/></a>
@@ -67,4 +66,4 @@
 <a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYDvVvSTSxKKvBwZAf9c9UWMY2yOfZvPq46g&s" alt="hugging face" width="40" height="40"/></a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
 <a href="https://ollama.com/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXeShWylhBDyM2zXYUZeB_qWE_G3Ehi4_WfQ&s" alt="ollama" width="40" height="40"/></a>
-</p>
+</p> -->
