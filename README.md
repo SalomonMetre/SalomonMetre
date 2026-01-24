@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salomon Metre</h1>
-<p align="center">A hacker at heart, I am a curious Computer Science graduate and NLP Master's student with strong interest in natural language processing. Interested in building language technologies for low-resource languages. </p>
+<p align="center">A hacker at heart, I am a curious NLP Master's student interested in building impactful language technologies for low-resource languages. </p>
 
 <!-- - 🌱 I’m currently learning **More NLP...**
 
