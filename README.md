@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://salomonmetre.github.io/"> Salomon Metre </a></h1>
-<p align="center">a hacker at heart, i am a an nlp master's student interested in building useful language technologies for low-resource languages. </p>
+<p align="center"> i try to understand the machine. </p>
 
 <!-- - 🌱 I’m currently learning **More NLP...**
 
